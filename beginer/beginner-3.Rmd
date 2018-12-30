@@ -1,0 +1,16 @@
+# Horizontal
+  
+  * (.)+\1
+  
+  * (AN|FE|BE)
+  
+# Vertical
+
+  * [COBRA]+
+  
+  * [^ABRC]+
+  
+# Answer
+
+OO
+OO

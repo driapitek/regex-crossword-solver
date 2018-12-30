@@ -1,0 +1,16 @@
+# Horizontal
+  
+  * [*]+
+  
+  * /+
+  
+# Vertical
+
+  * .?.+
+  
+  * .+
+  
+# Answer
+
+**
+//
