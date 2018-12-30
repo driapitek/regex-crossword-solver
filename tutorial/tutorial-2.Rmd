@@ -1,0 +1,11 @@
+# Horizontal
+  
+  * [BDF]
+  
+# Vertical
+
+  * [ABC]
+  
+# Answer
+
+B

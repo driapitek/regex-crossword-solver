@@ -1,0 +1,14 @@
+# Horizontal
+  
+  * A|B
+  
+  * A|Z
+  
+# Vertical
+
+  * A+
+  
+# Answer
+
+A
+A

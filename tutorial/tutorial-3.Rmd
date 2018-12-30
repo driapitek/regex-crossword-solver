@@ -1,0 +1,11 @@
+# Horizontal
+  
+  * [^AB]
+  
+# Vertical
+
+  * [ABC]
+  
+# Answer
+
+C

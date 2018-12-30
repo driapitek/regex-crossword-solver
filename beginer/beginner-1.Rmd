@@ -1,0 +1,16 @@
+# Horizontal
+  
+  * HE|LL|O+
+  
+  * [PLEASE]+
+  
+# Vertical
+
+  * [^SPEAK]+
+  
+  * EP|IP|EF
+  
+# Answer
+
+HE
+LP

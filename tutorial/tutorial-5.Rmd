@@ -1,0 +1,14 @@
+# Horizontal
+  
+  * A|C
+  
+  * B
+  
+# Vertical
+
+  * A?B?
+  
+# Answer
+
+A
+B

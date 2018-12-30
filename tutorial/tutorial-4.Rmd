@@ -1,0 +1,14 @@
+# Horizontal
+  
+  * A --- A
+  
+  * AB* --- A
+  
+# Vertical
+
+  * A* --- A
+  
+# Answer
+
+A
+A

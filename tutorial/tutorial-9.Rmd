@@ -1,0 +1,11 @@
+# Horizontal
+  
+  * \s
+  
+# Vertical
+
+  * A|\s
+  
+# Answer
+
+ 
