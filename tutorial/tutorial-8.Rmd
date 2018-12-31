@@ -1,12 +1,12 @@
 # Horizontal
   
-  * A{1}
+  * `A{1}`
   
-  * B|A
+  * `B|A`
   
 # Vertical
 
-  * A{2,}
+  * `A{2,}`
   
 # Answer 
 

@@ -1,12 +1,12 @@
 # Horizontal
   
-  * A|C
+  * `A|C`
   
-  * B
+  * `B`
   
 # Vertical
 
-  * A?B?
+  * `A?B?`
   
 # Answer
 

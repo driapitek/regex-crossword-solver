@@ -1,0 +1,18 @@
+# Horizontal
+  
+  * `[NOTAD]*`
+  
+  * `WEL|BAL|EAR`
+  
+# Vertical
+
+  * `UB|IE|AW`
+  
+  * `[TUBE]*`
+  
+  * `[BORF].`
+  
+# Answer
+
+ATO
+WEL

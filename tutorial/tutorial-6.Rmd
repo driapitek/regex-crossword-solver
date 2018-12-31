@@ -1,12 +1,12 @@
 # Horizontal
   
-  * A|B
+  * `A|B`
   
-  * A|Z
+  * `A|Z`
   
 # Vertical
 
-  * A+
+  * `A+`
   
 # Answer
 

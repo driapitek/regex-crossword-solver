@@ -1,10 +1,10 @@
 # Horizontal
   
-  * A|Z
+  * `A|Z`
   
 # Vertical
 
-  * A|B 
+  * `A|B` 
   
 # Answer
 

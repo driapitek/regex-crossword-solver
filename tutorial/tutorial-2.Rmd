@@ -1,10 +1,10 @@
 # Horizontal
   
-  * [BDF]
+  * `[BDF]`
   
 # Vertical
 
-  * [ABC]
+  * `[ABC]`
   
 # Answer
 

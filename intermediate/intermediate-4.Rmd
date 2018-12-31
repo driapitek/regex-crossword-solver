@@ -1,0 +1,21 @@
+# Horizontal
+  
+  * `[DEF][MNO]*`
+  
+  * `[^DJNU]P[ABC]`
+  
+  * `[ICAN]*`
+  
+# Vertical
+
+  * `[JUNDT]*`
+  
+  * `APA|OPI|OLK`
+  
+  * `(NA|FE|HE)[CV]`
+  
+# Answer
+
+DON
+TPA
+NIC

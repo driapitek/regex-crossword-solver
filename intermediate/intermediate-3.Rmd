@@ -1,0 +1,21 @@
+# Horizontal
+  
+  * `CAT|FOR|FAT`
+  
+  * `RY|TY\-`
+  
+  * `[TOWEL]*`
+  
+# Vertical
+
+  * `.(.)\1`
+  
+  * `.*[WAY]+`
+  
+  * `[RAM].[OH]`
+  
+# Answer
+
+FOR
+TY-
+TWO

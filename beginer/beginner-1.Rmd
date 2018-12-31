@@ -1,14 +1,14 @@
 # Horizontal
   
-  * HE|LL|O+
+  * `HE|LL|O+`
   
-  * [PLEASE]+
+  * `[PLEASE]+`
   
 # Vertical
 
-  * [^SPEAK]+
+  * `[^SPEAK]+`
   
-  * EP|IP|EF
+  * `EP|IP|EF`
   
 # Answer
 

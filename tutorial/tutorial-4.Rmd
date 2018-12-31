@@ -1,12 +1,12 @@
 # Horizontal
   
-  * A --- A
+  * `A`
   
-  * AB* --- A
+  * `AB*`
   
 # Vertical
 
-  * A* --- A
+  * `A*`
   
 # Answer
 

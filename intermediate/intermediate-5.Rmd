@@ -1,0 +1,23 @@
+# Horizontal
+  
+  * `[RUNT]*`
+  
+  * `O.*[HAT]`
+  
+  * `(.)*DO\1`
+  
+# Vertical
+
+  * `[^NRU](NO|ON)`
+  
+  * `(D|FU|UF)+`
+  
+  * `(FO|A|R)*`
+  
+  * `(N|A)*`
+  
+# Answer
+
+TURN
+OFFA
+NDON

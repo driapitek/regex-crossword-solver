@@ -1,10 +1,10 @@
 # Horizontal
   
-  * [^AB]
+  * `[^AB]`
   
 # Vertical
 
-  * [ABC]
+  * `[ABC]`
   
 # Answer
 

@@ -1,0 +1,19 @@
+# Horizontal
+  
+  * `[BQW](PR|LE)`
+  
+  * `[RANK]+`
+  
+# Vertical
+
+  * `[AWE]+`
+  
+  * `[ALP]+K`
+  
+  * `(PR|ER|EP)`
+  
+# Answer
+
+WA
+LK
+ER

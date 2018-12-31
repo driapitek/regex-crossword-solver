@@ -1,14 +1,14 @@
 # Horizontal
   
-  * .*M?O.*
+  * `.*M?O.*`
   
-  * (AN|FE|BE)
+  * `(AN|FE|BE)`
   
 # Vertical
 
-  * (A|B|C)\1
+  * `(A|B|C)\1`
   
-  * (AB|OE|SK)
+  * `(AB|OE|SK)`
   
 # Answer
 

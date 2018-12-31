@@ -1,14 +1,14 @@
 # Horizontal
   
-  * (.)+\1
+  * `(.)+\1`
   
-  * (AN|FE|BE)
+  * `(AN|FE|BE)`
   
 # Vertical
 
-  * [COBRA]+
+  * `[COBRA]+`
   
-  * [^ABRC]+
+  * `[^ABRC]+`
   
 # Answer
 
