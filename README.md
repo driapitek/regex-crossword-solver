@@ -10,11 +10,11 @@ Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
 * Experienced --- In progress
 
-* Palindromeda --- ?
+* Palindromeda --- done
 
 * Double Cross --- ?
 
-* Cities --- ?
+* Cities --- done
 
 * Volapük --- ?
 
