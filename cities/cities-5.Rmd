@@ -1,0 +1,42 @@
+# Left
+  
+  * `[^SEAP]+`
+  
+  * `[\sPIN]E[NET]`
+  
+  * `[^ONE\s]+`
+  
+  * `[END\s]+`
+  
+# Top
+
+  * `[HELP\s]+`
+  
+  * `[^\sPONG]+N`
+  
+  * `[SONG]+\s`
+
+# Right
+
+  * `[\sCOPE]+`
+  
+  * `[^HI\s]+`  
+  
+  * `[\sHAG]+`
+  
+  * `[^SODA]+`  
+  
+# Bottom
+
+  * `[^SLIC]+\w`
+  
+  * `[OCEAN\s]+`  
+  
+  * `[^SPIES]+`
+
+# Answer
+
+ CO
+PEN
+HAG
+EN 

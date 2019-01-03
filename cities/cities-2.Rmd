@@ -1,0 +1,37 @@
+# Left
+  
+  * `.*[KNIGHT]`
+  
+  * `(IN|SI|D|E)+`
+  
+  * `[IMUST]+`  
+  
+# Top
+
+  * `[IDEAL\s]+`
+  
+  * `[OLD]I[PUS]`
+  
+  * `[MNOPQR]+`
+
+# Right
+
+  * `[^GIP]+[^MITE]`
+  
+  * `[DIMN]+[NO]`
+  
+  *	`[^SNAP\s\-]+`
+  
+# Bottom
+
+  * `(DI|FI|L|O)+`
+  
+  * `[IOU\s]+`  
+  
+  * `(.)\1(M|N)`
+
+# Answer
+
+LON
+DIN
+IUM

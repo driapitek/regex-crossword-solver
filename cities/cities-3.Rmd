@@ -1,0 +1,36 @@
+# Left
+  
+  * `(W\s|NE|PS)*`
+  
+  * `[YOU]{2}[ARK]+`
+  
+# Top
+
+  * `[NAYE]*`
+  
+  * `(EO|N\s)`
+  
+  * `[WRONG]*`
+  
+  * `(K|R|I|M|\s)+`
+
+# Right
+
+  * `[END\sWITH]+`
+  
+  * `.+R.*`
+  
+# Bottom
+
+  * `[YEN]+`
+  
+  * `[ETPHONE\s]+`  
+  
+  * `[^GONE\s]+`
+  
+  * `[\sANKT]+`
+
+# Answer
+
+NEW 
+YORK

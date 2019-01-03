@@ -1,0 +1,28 @@
+# Left
+  
+  * `[LINE]+`
+  
+  * `[LAM]+`
+  
+# Top
+
+  * `(MA|LM)`
+  
+  * `[^MESH]+`
+
+# Right
+
+  * `[ISLE]+`
+  
+  * `[MALE]+`
+  
+# Bottom
+
+  * `[LAME]*`
+  
+  * `[^LES]+`  
+
+# Answer
+
+LI
+MA

@@ -1,0 +1,41 @@
+# Left
+  
+  * `[ALK\sU]+(P|AL|E)+`
+  
+  * `[ABC]\s(LU|LP)]*`
+  
+  * `(RU|MP|UR|S)+`  
+  
+# Top
+
+  * `(KA|LK)[MNO]`
+  
+  * `.+(AL|P)`
+  
+  * `[^PIM\s]+`
+  
+  * `[LP].*[PR]`
+
+# Right
+
+  * `[LUKE]{2}[LAKE\s]+`
+  
+  * `.*[PUL]+`  
+  
+  * `[RUMPUS]*`
+  
+# Bottom
+
+  * `[KRAMP]+`
+  
+  * `U[PLAIN\s]{2}`  
+  
+  * `[ALURE]+`
+  
+  * `[RULE\s]+`
+
+# Answer
+
+KUAL
+A LU
+MPUR
