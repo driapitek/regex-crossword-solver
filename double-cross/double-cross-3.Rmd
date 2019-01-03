@@ -1,16 +1,37 @@
-# Horizontal
+# Left
   
-  * `(.)+\1`
+  * `[ONE]*[SKA]`
   
-  * `(AN|FE|BE)`
+  * `.*(RE|ER)`
   
-# Vertical
+  * `A+[TUB]*`  
+  
+# Top
 
-  * `[COBRA]+`
+  * `.*[GAF]*`
   
-  * `[^ABRC]+`
+  * `(P|ET|O|TEA)*`
   
+  * `[RUSH]+`
+
+# Right
+
+  * `.*(O|S)*`
+  
+  * `[^GOA]*`  
+  
+  * `[STUPA]+`
+  
+# Bottom
+
+  * `(NF|FA|A|FN)+`
+  
+  * `.*(A|E|I).*`  
+  
+  * `[SUPER]*`
+
 # Answer
 
-OO
-OO
+NOS
+FER
+ATU
