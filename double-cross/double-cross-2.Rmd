@@ -1,0 +1,32 @@
+# Left
+  
+  * `(CAT|A-T)+`
+  
+  * `[MA\-\sE]+`
+  
+# Top
+
+  * `[^MCI]+`
+  
+  * `.A`
+
+  * `(TM|BF)`  
+
+# Right
+
+  * `[^KI\sP]+`
+  
+  * `(M|APS|EA)*`
+  
+# Bottom
+
+  * `[AI][E\s]`
+  
+  * `[A\-Z]+` 
+  
+  * `[\sT\-M]+`
+
+# Answer
+
+A-T
+EAM
