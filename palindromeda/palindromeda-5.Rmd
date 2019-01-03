@@ -1,0 +1,26 @@
+# Horizontal
+  
+  * `(EP|ST)*`
+  
+  * `T[A-Z]*`
+  
+  * `.M.T`
+  
+  * `.*P.[S-X]+`
+  
+# Vertical
+  
+  * `.*E.*`
+  
+  * `[^P]I(IT|ME)`
+  
+  * `(EM|FE)(IT|IP)`
+  
+  * `(TS|PE|KE)*`
+  
+# Answer
+
+STEP
+TIME
+EMIT
+PETS

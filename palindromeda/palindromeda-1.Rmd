@@ -1,0 +1,21 @@
+# Horizontal
+  
+  * `(T|E|N)*`
+  
+  * `(.)*W+\1`
+  
+  * `[LENT]*`
+  
+# Vertical
+
+  * `(ENT|NTE|NET)*`
+  
+  * `[WEAR]*`
+  
+  * `[R-Z]E*[M-R]`
+  
+# Answer
+
+NET
+EWE
+TEN

@@ -1,0 +1,21 @@
+# Horizontal
+  
+  * `(L|E|D|G|Y)*`
+  
+  * `(A|E|J)*Y.*`
+  
+  * `[FLEDG]*`
+  
+# Vertical
+
+  * `(GE|PE)[AL]*`
+  
+  * `[EAF]+(YE|AB)*`
+  
+  * `(QR|LE)(G|I|M|P)`
+  
+# Answer
+
+GEL
+EYE
+LEG

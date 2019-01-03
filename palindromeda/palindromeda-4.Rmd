@@ -1,0 +1,26 @@
+# Horizontal
+  
+  * `[PARTY]*[POD]`
+  
+  * `(JA|OK|RA){2}`
+  
+  * `(.)*J\1[RQ]`
+  
+  * `[CAP]*(T|R|Y)*`
+  
+# Vertical
+
+  * `(AP|TR|OR)*`
+  
+  * `R[AJEQ]*`
+  
+  * `[A-O]{2}(AR|AJ)*`
+  
+  * `[RAMP]*(T|O)+`
+  
+# Answer
+
+TRAP
+RAJA
+AJAR
+PART

@@ -1,0 +1,26 @@
+# Horizontal
+  
+  * `[TRASH]*`
+  
+  * `(FA|AB)[TUP]*`
+  
+  * `(BA|TH|TU)*`
+  
+  * `.*A.*`
+  
+# Vertical
+
+  * `(TS|RA|QA)*`
+  
+  * `(AB|UT|AR)*`
+  
+  * `(K|T)U.*(A|R)`
+  
+  * `(AR|FS|ST)+`
+  
+# Answer
+
+RATS
+ABUT
+TUBA
+STAR
