@@ -1,0 +1,32 @@
+# Left
+  
+  * `(PO|R|G|E)*`
+  
+  * `(Z|OO)[KINZS]+`
+  
+# Top
+
+  * `[GRAPEZ]+`
+  
+  * `[^ION\sS]+`
+  
+  * `(ZO|OS|OP)`
+
+# Right
+
+  * `[GRA]P+.*`
+  
+  * `(X|Y|Z)[KIS\s]+` 
+  
+# Bottom
+
+  * `[GIN].`
+  
+  * `[SPIK\s]*`  
+  
+  * `[^ZYP]+`
+
+# Answer
+
+GPO
+ZKS

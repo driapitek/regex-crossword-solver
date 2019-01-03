@@ -1,0 +1,16 @@
+# Horizontal
+  
+  * `.*M?O.*`
+  
+  * `(AN|FE|BE)`
+  
+# Vertical
+
+  * `(A|B|C)\1`
+  
+  * `(AB|OE|SK)`
+  
+# Answer
+
+BO
+BE
