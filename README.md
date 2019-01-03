@@ -14,7 +14,7 @@ Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
 * Double Cross --- ?
 
-* Cities --- ?
+* Cities --- done
 
 * Volapük --- ?
 
