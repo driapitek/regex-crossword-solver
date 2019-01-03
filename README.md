@@ -12,7 +12,7 @@ Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
 * Palindromeda --- done
 
-* Double Cross --- ?
+* Double Cross --- done
 
 * Cities --- done
 
