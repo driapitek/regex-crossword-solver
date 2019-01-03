@@ -1,16 +1,57 @@
-# Horizontal
+# Left
   
-  * `18|19|20`
+  * `(RR|FRO)*`
   
-  * `[6789]\d`
+  * `[^SAINT]+`
   
-# Vertical
+  * `[\sUSH]*` 
+  
+  * `[A\sI]+`
+  
+  * `[WITH]*`
+  
+  * `[HEL\s]+`
+  
+  * `.*`
+  
+# Top
 
-  * `\d[2480]`
+  * `[^RO\sE]*(WHE|WHO)`
   
-  * `56|94|73`
+  * `[ARE](.)[SAINT]+\1V`
   
+  * `.{2}[ST\sEL]+`
+
+# Right
+
+  * `[FR\sO]+`
+  
+  * `(M\s|SM)[ROSE]`  
+  
+  * `(S|US)+`
+  
+  * `[^AW]A.*`
+  
+  * `[^HEAR]+`
+  
+  * `.*[FIL]`
+  
+  * `(VE|O|VO)+`
+  
+# Bottom
+
+  * `[^VYS]+`
+  
+  * `.(\sSAI).*`  
+  
+  * `(LE|\sT|S|OR)+`
+
 # Answer
 
-19
-84
+FRO
+M R
+USS
+IA 
+WIT
+H L
+OVE
