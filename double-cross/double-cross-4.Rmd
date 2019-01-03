@@ -1,16 +1,42 @@
-# Horizontal
+# Left
   
-  * `[*]+`
+  * `.[LUH]+`
   
-  * `/+`
+  * `(P|K)[^U]+`
   
-# Vertical
+  * `.*C+[TIF]` 
+  
+  * `(NO|ONE|ION)*`
+  
+# Top
 
-  * `.?.+`
+  * `(.)\1(.)\2`
   
-  * `.+`
+  * `[C\sOU]+`
   
+  * `[^PU\sH]+`
+
+# Right
+
+  * `.*L+`
+  
+  * `[PUF\s]*`  
+  
+  * `[TIC]*`
+  
+  * `[NOI\sE]+`
+  
+# Bottom
+
+  * `[PIF]+`
+  
+  * `.*[OWE]*`  
+  
+  * `(TN|LF|TF)*`
+
 # Answer
 
-**
-//
+PUL
+P F
+ICT
+ION
