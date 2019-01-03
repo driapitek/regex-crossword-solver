@@ -1,16 +1,23 @@
-# Horizontal
+# Left
   
-  * `HE|LL|O+`
+  * `[A-GN-Z]+`
   
-  * `[PLEASE]+`
-  
-# Vertical
+# Top
 
-  * `[^SPEAK]+`
+  * `[D-HJ-M]`
   
-  * `EP|IP|EF`
+  * `[^A-RU-Z]`
+
+# Right
+
+  * `[^A-DI-S]+`
   
+# Bottom
+
+  * `[^F-KM-Z]`
+  
+  * `[A-KS-V]`  
+
 # Answer
 
-HE
-LР
+ET
