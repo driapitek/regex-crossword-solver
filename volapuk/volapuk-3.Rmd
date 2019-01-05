@@ -1,16 +1,41 @@
-# Horizontal
+# Left
   
-  * `(.)+\1`
+  * `[^APE]+.?`
   
-  * `(AN|FE|BE)`
+  * `[SNAKE]+..`
   
-# Vertical
+  * `(\!|\'|\.|\?)?P[YO!]+`
+  
+# Top
 
-  * `[COBRA]+`
+  * `[MENSA?]+`
   
-  * `[^ABRC]+`
+  * `(A|\?|\?P|NP)+`
   
+  * `[YOU?BE]+`
+  
+  * `(O|P)\1\1`
+
+# Right
+
+  * `[M-Q].[A-E][M-Q]`
+  
+  * `[^NAKED].?(UO|DUO)`
+  
+  * `.+[M-W]+`
+  
+# Bottom
+
+  * `[^NAP\s]+.`
+  
+  * `[PEN\sA?]+`  
+  
+  * `.+(Y|BE)`
+  
+  * `[^BAT'S?]+`
+
 # Answer
 
-OO
-OO
+M?BO
+SNUO
+?PYO

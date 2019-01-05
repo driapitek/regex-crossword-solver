@@ -1,16 +1,46 @@
-# Horizontal
+# Left
   
-  * `[*]+`
+  * `(\d+)[MEW]+`
   
-  * `/+`
+  * `[\/BEDS]+`
   
-# Vertical
+  * `(\d|\/d|P|\sS|S)+`
+  
+  * `[^ZO\s\/\d]+`
+  
+# Top
 
-  * `.?.+`
+  * `[A5-9\/]+\d(\s|:|\.)`
   
-  * `.+`
+  * `[T0X\sD]+`
   
+  * `[BMX'S]+N?`
+  
+  * `[PA/\sWE]+`
+
+# Right
+
+  * `[W407OM]+`
+  
+  * `.+(D|B)+.?`
+  
+  * `[SP1NE\s]+`
+  
+  * `[NA:X,S]+`
+  
+# Bottom
+
+  * `[0-9:A-Z\/\s]+`
+  
+  * `(0D|E\s|\sX)+`  
+  
+  * `.+B(SN|XN|:P)+`
+  
+  * `[^\sIN\/5]+`
+
 # Answer
 
-**
-//
+70MW
+/DBE
+1 SP
+:XNA

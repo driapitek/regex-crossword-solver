@@ -1,16 +1,37 @@
-# Horizontal
+# Left
   
-  * `.*M?O.*`
+  * `(Y|\d|M)+`
   
-  * `(AN|FE|BE)`
+  * `(.H|P|.P)+`
   
-# Vertical
+  * `[\dIP\s].+`
+  
+# Top
 
-  * `(A|B|C)\1`
+  * `M[\DIP]*`
   
-  * `(AB|OE|SK)`
+  * `(\\d|\d.)[\\\/B]`
   
+  * `(Y$|YH|\d$)+`
+
+# Right
+
+  * `[^IB][0-3]Y`
+  
+  * `^(P|Y)*(PA|\.H$)`
+  
+  * `[PA\\d\d]+`
+  
+# Bottom
+
+  * `(M|A|P)+`
+  
+  * `[^2O13]\.\\*(A|P)?`  
+  
+  * `[HOW2Y]+`
+
 # Answer
 
-BO
-BE
+`M0Y`
+`P.H`
+`P\2`
