@@ -8,7 +8,7 @@ Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
 * Intermediate --- done
 
-* Experienced --- In progress
+* Experienced --- 1/5
 
 * Palindromeda --- done
 
@@ -18,6 +18,6 @@ Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
 * Volapük --- done
 
-* Hamlet --- In progress
+* Hamlet --- done
 
-* Hexagonal --- ?
+* Hexagonal --- In progress
