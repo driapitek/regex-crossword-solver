@@ -1,22 +1,57 @@
 # X
   
-  * `[HAIR]*(D|O)*`
+  * `[SKY][DANCER\s]+`
   
-  * `(\W|\w)?[CLVST3R]*`
+  * `[ACT|V1TI3S]+\w`
   
-  * `[HAV3N]?[REA]*`
+  * `[^SVAI\s=]+["OLD"]{2}`
+  
+  * `((B\WS)|ZZ|(\s))*\W(\s)+`
+  
+  * `(SO|L|I|DAR|E|T|Y)+`
+  
+  * `[^EARS](H|I|T)(\1)[TEAM]+`
+  
+  * `[^IT="SLY?3]+`
   
 # Y
 
-  * `[HELP]*(Y|QU|I)?`
+  * `(SA|Y|AS)["BUMBLE"]+`
   
-  * `(VE|IL?|\sS)*[DIES]?`
+  * `(\W)(SO|AR|E)(\1)(R|Y)+`
+  
+  * `((E)|(V)|(ER)|(S))+[EVER]`
+  
+  * `(\W)(F|I|T)+(\=O|F|I|(\2))*`
+  
+  * `[CLU3][TRIE\W]+`
+  
+  * `[BLU3][\sKIES]*`
+  
+  * `\W[IAMFLYING]*`
   
 # Z
 
-  * `[EVA]?[MASONIC\s]?`
+  * `[FEV3R]+[BGE3SY]+`
   
-  * `[STARV3]*(O|H)?`
+  * `(O\W|MAX)?[STAR]+(\W)+`
+  
+  * `(\W)(FL|O|A|T|S|\W)+`
+  
+  * `[=SAYAL1VE]+`
+  
+  * `(NO|N)*[MOTIV3=\s]+`
+  
+  * `[A\s|AN|"ET3RTY"]+`
+  
+  * `[MELLO\W]{2}[YELLO\W]{2}`
   
 # Answer
 
+`S E `
+`ASVTL`
+`"OET"L`
+`B S=   `
+`YSOEIY`
+`VTTEM`
+`FR A`

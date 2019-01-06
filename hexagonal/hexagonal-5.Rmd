@@ -1,22 +1,67 @@
 # X
   
-  * `[HAIR]*(D|O)*`
+  * `['2B']?(O|R)?['\2BINGE']+`
   
-  * `(\W|\w)?[CLVST3R]*`
+  * `(\W)?(\1)?[HONEYPOTS]+`
   
-  * `[HAV3N]?[REA]*`
+  * `[WAFT\s]{3,5}[WINNIE]+`
+  
+  * `[THI\s]+(S|I|NG|ER\s){3,5}`
+  
+  * `[BOOK\s]+(O|F)?(Z|E|N)+`
+  
+  * `(O|H)(.)[BROTH3R]+(\2)(HO|BS)+`
+  
+  * `(.)[STORY]+(I|SE|E)(\1)+`
+  
+  * `[ANOTHER]*[KINGDOM\s]{1,5}`
+  
+  * `(\W)?(O|R)?[BLACK\.RAVEN]+`
   
 # Y
 
-  * `[HELP]*(Y|QU|I)?`
+  * `\W[BIT]{1}[BITT3R]+(TH|AN)*`
   
-  * `(VE|IL?|\sS)*[DIES]?`
+  * `(A|N)?(\w)?(F|I|B)?(\2)(EO|NS)?`
   
+  * `(I|O|NS){2}[AND](.)[SEA](\2)+`
+  
+  * `[B0S\s]{3}(I|N)(SK|R|I|B|E)+`
+  
+  * `(E\W|ER)+[PERSP3CTIVE\s]+`
+  
+  * `[^EIN](.)(.)(\W)(\2)(\1)(\5)`
+  
+  * `(OR|G)+(T|H|E)*(\W)[BRIDGER]+`
+  
+  * `[JOKE]{1,3}[\W1TH]{1,5}`
+
 # Z
 
-  * `[EVA]?[MASONIC\s]?`
+  * `(KV|A|VK)(\W)(B|EE|PO|O|H)+`
   
-  * `[STARV3]*(O|H)?`
+  * `(\w){3}(\W)(WE|A|R|E)*[THE]{2}`
+  
+  * `(R|U|N){2}(T|O)[THEORY\.]+`
+  
+  * `\.?[REG]{4}(V|\s)[FIT]{2}`
+  
+  * `(\W){1,3}[A'FRIENDHIP]+`
+  
+  * `(\W){1,3}[CON\sP1RASHE]+`
+  
+  * `(\w){1,3}(\W)+[HISTORY?]+`
+  
+  * `(TH|E){1,3}(W|IN|G|ED)+(\W|EB)+`
   
 # Answer
 
+`'NIB`
+`THOSE`
+`TFA  W`
+`TH ISNG`
+`BEEEEEEE`
+`O RR HO`
+` STE  `
+`KING `
+`VNR.`

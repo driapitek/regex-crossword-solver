@@ -1,22 +1,43 @@
 # X
   
-  * `[HAIR]*(D|O)*`
+  * `\.?.[^QUOT3\s]{2}\.?`
   
-  * `(\W|\w)?[CLVST3R]*`
+  * `\.?["EXPLAINED"]+\.?`
   
-  * `[HAV3N]?[REA]*`
+  * `\.?(BA|\.B|Y")+(\1)(\s)\.?`
+  
+  * `\.?(D\W|EF|IN|I.|TI.N)*\.?`
+  
+  * `\.?[ORIG\.N\s]+\.?`
   
 # Y
 
-  * `[HELP]*(Y|QU|I)?`
+  * `\.?[S-TALK]{2,3}\.?`
   
-  * `(VE|IL?|\sS)*[DIES]?`
+  * `\.?(BI|T|E"|\s)+\.?`
+  
+  * `\.?(SE|\.\s|MET|APHO|R)+\.?`
+  
+  * `\.?(I|D|IO|M)+\w?(\1)+\.?`
+  
+  * `\.?(\s|W|EE|T)+\W+(\w)+\.?`
   
 # Z
 
-  * `[EVA]?[MASONIC\s]?`
+  * `\.?(PAS|RI|TE)+\.?`
   
-  * `[STARV3]*(O|H)?`
+  * `\.?(LIN|GO|\s)+[URBAN]+\.?`
+  
+  * `\.?(BOM|"S|ND\.)+\.?`
+  
+  * `\.?["BABIES"]{4}\.?`
+  
+  * \.?[^NOBEAT\?]*\.?`
   
 # Answer
 
+`SES`
+`A"ED`
+`.B.B `
+`I D"`
+`R.N`

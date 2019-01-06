@@ -1,22 +1,26 @@
 # X
   
-  * `[HAIR]*(D|O)*`
+  * `[FIND]?\$?[LAKME]`
   
-  * `(\W|\w)?[CLVST3R]*`
+  * `[^PESCE]?[POS3]*.`
   
-  * `[HAV3N]?[REA]*`
+  * `[^OPRES!]+[^STICKO]*`
   
 # Y
 
-  * `[HELP]*(Y|QU|I)?`
+  * `[^ZENI$](TA|NG|LE|R)`
   
-  * `(VE|IL?|\sS)*[DIES]?`
+  * `(F|^L|Y)?[POWER!]*`
+  
+  * `[78NGUA\!E]{2}`
   
 # Z
 
-  * `[EVA]?[MASONIC\s]?`
+  * `[^XRAY]?[CROWN]*$`
   
-  * `[STARV3]*(O|H)?`
+  * `^[D-F\?][^CAMPED]+`
+  
+  * `[KIP?\!]*(BU|L|B){1,2}`
   
 # Answer
 
