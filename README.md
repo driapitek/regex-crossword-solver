@@ -2,7 +2,7 @@
 
 Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
-* Tutorial --- done
+* [Tutorial](beginner) --- done
 
 * Begginer --- done
 
