@@ -1,4 +1,4 @@
-# regex-crossword-solver
+# Solves of crossword based on Regular Expressions
 
 Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
