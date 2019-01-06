@@ -48,3 +48,8 @@
 
 # Answer
 
+`TRAN7`
+`24L? `
+`AM5$L`
+`-WE3O`
+`DEFF?`
