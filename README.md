@@ -16,8 +16,8 @@ Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
 * Cities --- done
 
-* Volapük --- In progress
+* Volapük --- done
 
-* Hamlet --- ?
+* Hamlet --- In progress
 
 * Hexagonal --- ?
