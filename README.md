@@ -2,22 +2,22 @@
 
 Solves regex crosswords such as the ones found on <http://regexcrossword.com>
 
-* [Tutorial](beginner) --- done
+* [Tutorial](https://github.com/driapitek/regex-crossword-solver/tree/master/tutorial) --- done
 
-* Begginer --- done
+* [Begginer](https://github.com/driapitek/regex-crossword-solver/tree/master/beginner) --- done
 
-* Intermediate --- done
+* [Intermediate](https://github.com/driapitek/regex-crossword-solver/tree/master/intermediate) --- done
 
-* Experienced --- done
+* [Experienced](https://github.com/driapitek/regex-crossword-solver/tree/master/experienced) --- done
 
-* Palindromeda --- done
+* [Palindromeda](https://github.com/driapitek/regex-crossword-solver/tree/master/palindromeda) --- done
 
-* Double Cross --- done
+* [Double Cross](https://github.com/driapitek/regex-crossword-solver/tree/master/double-cross) --- done
 
-* Cities --- done
+* [Cities](https://github.com/driapitek/regex-crossword-solver/tree/master/cities) --- done
 
-* Volapük --- done
+* [Volapük](https://github.com/driapitek/regex-crossword-solver/tree/master/volapuk) --- done
 
-* Hamlet --- done
+* [Hamlet](https://github.com/driapitek/regex-crossword-solver/tree/master/hamlet) --- done
 
-* Hexagonal --- done
+* [Hexagonal](https://github.com/driapitek/regex-crossword-solver/tree/master/hexagonal) --- done
