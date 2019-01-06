@@ -1,0 +1,25 @@
+# X
+  
+  * `[HAIR]*(D|O)*`
+  
+  * `(\W|\w)?[CLVST3R]*`
+  
+  * `[HAV3N]?[REA]*`
+  
+# Y
+
+  * `[HELP]*(Y|QU|I)?`
+  
+  * `(VE|IL?|\sS)*[DIES]?`
+  
+# Z
+
+  * `[EVA]?[MASONIC\s]?`
+  
+  * `[STARV3]*(O|H)?`
+  
+# Answer
+
+`H`
+`IV`
+`E`
