@@ -1,16 +1,74 @@
-# Horizontal
+# Left
   
-  * `18|19|20`
+  * `[^DO.HY:PER!']+`
   
-  * `[6789]\d`
+  * `[ROPE\s]+[YE\s]+`
   
-# Vertical
+  * `[FAST\s,OR]+.*`
+  
+  * `[^FOUR,SHE]+`
+  
+  * `[LEAF\s]*[M-R]+`
+  
+  * `[^TRASH]+`
+  
+  * `[NITRO,FUN]+`
+  
+  * `(A|E|I)[J\s]+\1(BE|ST)`
+  
+# Top
 
-  * `\d[2480]`
+  * `[POLEA\s]{5}[^ASH]+`
   
-  * `56|94|73`
+  * `.(OR|AP|IE).[FA\sT]+`
   
+  * `[^ELFR]+(E|OI|J)+`
+  
+  * `[^OH,AI\s:IM!]+`
+  
+  * `[KLIPS,CLAP\s]+
+  
+  * `[\sHY:!;]+.+(T|A|PE)\1`
+  
+# Right
+
+  * `(A|E|I|O).\1[SOFT,]+.`
+  
+  * `[PAST]{1}(O|U|T)+[YEAR\s]+`
+  
+  * `O[RICE]+(S\?|K!)`
+  
+  * `[\s.!]+[ASH]`
+  
+  * `[^PLAY?KIS]+[LOVE]*`
+  
+  * `(\sI|W\s|OF)+`
+  
+  * `(N|O).(I|F)\1\2.`
+  
+  * `(S\s|E\s).[EAST]+`
+  
+# Bottom
+
+  * `[^IR]{2}[OWN\s]+.`
+  
+  * `[LORD'.]+(PS|F\s)+`  
+  
+  * `[A?OH–FIRE.]+J?`
+  
+  * `(SR|LF|C.)+[END]+`
+  
+  * `[^YOAS]+L[\sHIS]+`
+  
+  * `[^EAR;][IF:A?YOLK!].+`
+
 # Answer
 
-19
-84
+`ALAS, `
+`POOR Y`
+`ORICK!`
+` ... A`
+` FELLO`
+`W OF I`
+`NFINIT`
+`E JEST`

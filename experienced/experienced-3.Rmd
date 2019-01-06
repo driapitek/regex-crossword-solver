@@ -1,0 +1,26 @@
+# Horizontal
+  
+  * `[QA].[WEST]*`
+  
+  * `(HE|RT|TK)*.`
+  
+  * `(RE|QR)[QUART]*`
+  
+  * `[EUW]*S[RITE]*`
+  
+  * `(.)(.)\2\1[WE]`
+  
+# Vertical
+
+  * `[ABC]*(.)\1(ME|UO)`
+  
+  * `(.)T*E*\1`
+  
+  * `[HAS]*(SN|PA)`
+  
+  * `(WE|GA|AL)T*O+`
+  
+  * `(EG|BEEE)[WIQ]*`
+  
+# Answer
+

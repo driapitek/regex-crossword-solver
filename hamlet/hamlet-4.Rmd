@@ -1,16 +1,68 @@
-# Horizontal
+# Left
   
-  * `[*]+`
+  * `[M-W\s]+[A-D]`
   
-  * `/+`
+  * `(H|E|Y)(.)(OF|ER)\2[WAS]{2}`
   
-# Vertical
+  * `[HASTER'\s]+`
+  
+  * `(A|T)[YUR\s]\1H[OU\s,!]+`
+  
+  * `(.).(F|O)\2(R|I|P|\s)+\1\2`
+  
+  * `[M-Q]+[HELL]+.+`
+  
+# Top
 
-  * `.?.+`
+  * `[PHAT\s!]+`
   
-  * `.+`
+  * `(O\s|E\s)+.+`
   
+  * `[ORP]+TO[^PHILA]`
+  
+  * `[^OLDER]{3}H.+`
+  
+  * `.[HORN\s]+[^HAS]`
+  
+  * `[WAU\s]+`
+  
+  * `[CASH]+[O,!]+`
+
+# Right
+
+  * `.+[MUNCH']{3}`
+  
+  * `[FO\sH]+(OP|WA|HA)`
+  
+  * `(R\s|TE|S)+[^RS\s]{2}(S|HH)?`
+  
+  * `[THO\sE]+U.?`
+  
+  * `[PRO\sE]+`
+  
+  * `(P|H|EL)+[AILS!]+`
+  
+# Bottom
+
+  * `(.).\1\1\s.`
+  
+  * `[PHONE\s!]+(HP|PH)+`  
+  
+  * `(O|A)\1.+[ELA]`
+  
+  * `[LOFHER\s]+`
+  
+  * `[^NUT\s].[HORIS]+`
+  
+  * `[U-W].+(\s|A)+`
+  
+  * `[A-E]{2}(S,|O,|O!|,!)+`
+
 # Answer
 
-**
-//
+`TOO MUC`
+`H OF WA`
+`TER HAS`
+`T THOU,`
+` POOR O`
+`PHELIA!`

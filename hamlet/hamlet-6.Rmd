@@ -1,0 +1,93 @@
+# Left
+  
+  * `.(\sC|OW|\s)+	`
+  
+  * `[RACE]+(AS|KS)`
+  
+  * `[NOA\sE]+`
+  
+  * `(BL|UF)[A\s,HE]+`
+  
+  * `[A-G][ARTH\s.]+`
+  
+  * `[\sEA]+G[OD\s]+`
+  
+  * `(IG|\sN|H\s|H)+`
+  
+  * `(SW|EA|T,\s)+`
+  
+  * `(H|M|E)\1T[\sPYS]+`
+  
+  * `[O-Z][ICE\s]+.+[PEN]`
+
+  
+# Top
+
+  * `(NR\s|BE)+.+`
+  
+  * `[^SPYC\s]+`
+  
+  * `[^ADSP]+`
+  
+  * `[^BLUCE]+.`
+  
+  * `[^AYN\s]+(E|A)`
+  
+# Right
+
+ * `.{3}[COPE\s]+`
+  
+  * `[RAYS]+C(KS|SK|Y)`
+  
+  * `[\sAP]+[M-W]{2}`
+  
+  * `[A-Q]{2}[^PASH]+.`
+  
+  * `(IR|T\.|EA|R)+`
+  
+  * `[^APE][DOG]+`
+  
+  * `\W[GINES]+.?`
+  
+  * `[\sWEAT,S']+`
+  
+  * `(.?)\1(P|T\s)+`
+  
+  * `(IN|R|CE|\sP)+`
+  
+  
+# Bottom
+
+  * `[BRIN\W]{4}[TERN\s]+`
+  
+  * `(LA|O|AA){2,3}.+`  
+  
+  * `[A?OH–FIRE.]+J?`
+  
+  * `\W(KN|\s|\sK)+TO.+`
+  
+  * `[^GAULE,]+D[^OL]+`
+
+# Answer
+
+`NOW C`
+`RACKS`
+` A NO`
+`BLE H`
+`EART.`
+` GOOD`
+` NIGH`
+`T, SW`
+`EET P`
+`RINCE`
+
+
+
+
+
+
+
+
+
+
+
